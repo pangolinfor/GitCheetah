@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+h1.pos_center {
+	/* position: relative; */
+	/* vertical-align:middle; */
+	line-height: 50%
+}
+
+h2.pos_left {
+	position: relative;
+	left: -20px
+}
+
+h2.pos_right {
+	position: relative;
+	left: 20px
+}
+
+.text {
+	text-align: center;
+	font-family: Microsoft YaHei;
+}
+
+.text2 {
+	text-align: left;
+	test-size: 16px;
+	font-family: Microsoft YaHei;
+}
+
+.divcss5 {
+	color: #00F
+}
